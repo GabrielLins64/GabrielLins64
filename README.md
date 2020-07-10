@@ -12,4 +12,4 @@ I am majoring in Computer Science at UECE (9/9) 💻, but I have been working wi
 
 🎮 I love to play, and watch some anime 😆
 
-📚 I am also studying English daily 📚
+📚 I am also studying English daily

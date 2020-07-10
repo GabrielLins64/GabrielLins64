@@ -2,7 +2,7 @@
 
 ## 👋  What's up! My name is Lucas, and welcome to my profile!
 
-I am majoring in Computer Science at UECE (9/9) 💻, i work with Software development since 2018, I work mainly with JavaScript / TypeScript, ReactJS, NodeJS, and Flutter 😍 
+I am majoring in Computer Science at UECE (9/9) 💻, i have been working with software development since 2018, working mainly with JavaScript / TypeScript, ReactJS, NodeJS, and Flutter 😍 
 
 
 

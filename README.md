@@ -15,5 +15,5 @@ I am majoring in Computer Science at UECE (9/9) 💻, i have been working with s
 📚 I am also studying English daily
 
 ## My Social Networks
-![](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/lucas-de-oliveira-mesquita/&logoColor=white)
-![](https://img.shields.io/badge/Facebook--red?style=for-the-badge&logo=facebook&link=https://www.facebook.com/L.Oliveira98&logoColor=white)
+![https://www.linkedin.com/in/lucas-de-oliveira-mesquita/](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/lucas-de-oliveira-mesquita/&logoColor=white)
+![https://www.facebook.com/L.Oliveira98](https://img.shields.io/badge/Facebook--red?style=for-the-badge&logo=facebook&link=https://www.facebook.com/L.Oliveira98&logoColor=white)

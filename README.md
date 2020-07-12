@@ -1,10 +1,10 @@
 <img align="right" width="300" src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif">
 
-## 👋  What's up! My name is Lucas, and welcome to my profile!
+## 👋  What's up! My name is Lucas, and welcome to my profile! 
 
 I am majoring in Computer Science at UECE (9/9) 💻, i have been working with software development since 2018, mainly using JavaScript / TypeScript, ReactJS, NodeJS, and Flutter 😍 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luccasoli.luccasoli)
 
 ## About Me
 

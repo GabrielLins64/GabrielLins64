@@ -4,7 +4,7 @@
 
 I am majoring in Computer Science at UECE (9/9) 💻, i have been working with software development since 2018, mainly using JavaScript / TypeScript, ReactJS, NodeJS, and Flutter 😍 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luccasoli.luccasoli)
+[![HitCount](http://hits.dwyl.com/luccasoli/luccasoli.svg)](http://hits.dwyl.com/luccasoli/luccasoli)
 
 ## About Me
 
@@ -12,7 +12,7 @@ I am majoring in Computer Science at UECE (9/9) 💻, i have been working with s
 
 🎮 I love to play, and watch some anime 😆
 
-📚 I am also studying English daily
+📚 I am also studying English daily (text 📖 + audio 🎧)
 
 ## My Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/lucas-de-oliveira-mesquita/&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-mesquita/)

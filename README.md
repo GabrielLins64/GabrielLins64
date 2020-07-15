@@ -4,8 +4,6 @@
 
 I am majoring in Computer Science at UECE (9/9) 💻, i have been working with software development since 2018, mainly using JavaScript / TypeScript, ReactJS, NodeJS, and Flutter 😍 
 
-[![HitCount](http://hits.dwyl.com/luccasoli/luccasoli.svg)](http://hits.dwyl.com/luccasoli/luccasoli)
-
 ## About Me
 
 🌎 I'm from Fortaleza, CE - Brazil 🇧🇷

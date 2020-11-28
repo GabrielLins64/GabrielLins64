@@ -12,5 +12,6 @@ Text
 
 📚 I text3 ( 📖 +  🎧)
 
-## Contact
+## Social Media
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/gabrielfurtadolinsmelo/&logoColor=white)](https://www.linkedin.com/in/gabrielfurtadolinsmelo/)

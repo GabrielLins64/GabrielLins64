@@ -1,6 +1,6 @@
-<img align="right" width="350" height="400" src="imgs/matrix.gif">
+# <img src="imgs/python.png" width="40"> :ocean::boat: Gabriel's GitHub :rowboat::man:‍:computer: <img src="imgs/c++.png" width="40">
 
-# :ocean::boat: Gabriel's GitHub :rowboat::man:‍:computer:
+<img align="right" width="350" height="400" src="imgs/matrix.gif">
 
 <h3> Whoami () <br>{ </h3>
 

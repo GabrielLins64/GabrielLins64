@@ -6,7 +6,7 @@
 
 > :mortar_board::computer: I'm a Computer Science student at Universidade Estadual do Ceará (UECE);
 >
-> :wrench::microscope: Working at Simp Digital as a full stack intern in web development. Also working at Laboratório de Matemática Computacional (LaMaC) with research in Digital Image Processing applied to medical images, Artificial Intelligence and as a back-end developer;
+> :wrench::microscope: Working at [Simp Digital](https://simp.digital/) as a full stack intern in web development. Also working at Laboratório de Matemática Computacional (LaMaC) with research in Digital Image Processing applied to medical images, Artificial Intelligence and as a back-end developer;
 >
 > :hammer::scroll: My main programming languages are <i>C++</i>, <i>Python</i> and <i>JavaScript</i>. I intend to do a master's degree in the area of computer graphics and work as a software developer;
 >

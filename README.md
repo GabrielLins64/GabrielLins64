@@ -1,41 +1,34 @@
-<style>
-  .code-block {
-    padding-left: 20px;
-  }
-
-  .def-py {
-    color: green;
-  }
-
-  .py-dev-block {
-    height: 40px;
-    line-height: 40px;
-  }
-
-  .py-dev-block > img, .py-dev-block > span {
-    display: inline-block;
-    vertical-align: middle;
-  }
-</style>
-
 <h1 align="center">
   🧑‍💻 Gabriel's GitHub 🚀
 </h1>
 
-<h3><span class="def-py">def</span> who_am_i():</h3>
+<h3>![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015` who_am_i():
+</h3>
 
-<div class="code-block">
-  <div class="py-dev-block">
-    <img src="imgs/python.png" width="40">
-    <span> Python Developer (Backend | Web) </span>
+<div style="padding-left: 20px;">
+  <div style="height: 40px; line-height: 40px;">
+    <img src="imgs/python.png" width="40" style="display: inline-block; vertical-align: middle;">
+    <span style="display: inline-block; vertical-align: middle;">
+      Python Developer (Backend | Web)
+    </span>
   </div>
 
-  <div class="py-dev-block">
-    <span>🎓 CS student (last semester) at <a href="http://www.uece.br/">Ceará State University (UECE)</a></span>
+  <div style="height: 40px; line-height: 40px;">
+    <span style="display: inline-block; vertical-align: middle; width: 40px; text-align: center;">
+      🎓
+    </span>
+    <span style="display: inline-block; vertical-align: middle;">
+      CS student (last semester) at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
+    </span>
   </div>
 
-  <div class="py-dev-block">
-    <span>💼 PHP/Python Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a></span>
+  <div style="height: 40px; line-height: 40px;">
+    <span style="display: inline-block; vertical-align: middle; width: 40px; text-align: center;">
+      💼
+    </span>
+    <span style="display: inline-block; vertical-align: middle;">
+      PHP/Python Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+    </span>
   </div>
 </div>
 > :mortar_board::computer: I'm a Computer Science student at Universidade Estadual do Ceará (UECE) and I intend to do a master's degree in Computer Networking;

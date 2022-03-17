@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="imgs/python.png" width="40" style="display: inline-block; vertical-align: middle;">
+  <img src="imgs/python.png" width="50" style="display: inline-block; vertical-align: middle;">
   Gabriel's GitHub
-  <img src="imgs/php.png" width="40" style="display: inline-block; vertical-align: middle;">
+  <img src="imgs/php.png" width="50" style="display: inline-block; vertical-align: middle;">
 </h1>
 
 ```python

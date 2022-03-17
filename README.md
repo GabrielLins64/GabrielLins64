@@ -1,9 +1,43 @@
-# <img src="imgs/python.png" width="40"> :ocean::boat: Gabriel's GitHub :rowboat::man:‍:computer: <img src="imgs/c++.png" width="40">
+<style>
+  .code-block {
+    padding-left: 20px;
+  }
 
-<img align="right" width="350" height="400" src="imgs/matrix.gif">
+  .def-py {
+    color: green;
+  }
 
-<h3> Whoami () <br>{ </h3>
+  .py-dev-block {
+    height: 40px;
+    line-height: 40px;
+  }
 
+  .py-dev-block > img, .py-dev-block > span {
+    display: inline-block;
+    vertical-align: middle;
+  }
+</style>
+
+<h1 align="center">
+  🧑‍💻 Gabriel's GitHub 🚀
+</h1>
+
+<h3><span class="def-py">def</span> who_am_i():</h3>
+
+<div class="code-block">
+  <div class="py-dev-block">
+    <img src="imgs/python.png" width="40">
+    <span> Python Developer (Backend | Web) </span>
+  </div>
+
+  <div class="py-dev-block">
+    <span>🎓 CS student (last semester) at <a href="http://www.uece.br/">Ceará State University (UECE)</a></span>
+  </div>
+
+  <div class="py-dev-block">
+    <span>💼 PHP/Python Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a></span>
+  </div>
+</div>
 > :mortar_board::computer: I'm a Computer Science student at Universidade Estadual do Ceará (UECE) and I intend to do a master's degree in Computer Networking;
 >
 > :wrench::microscope: Working at [ETICE](https://www.etice.ce.gov.br/) as a Full Stack developer (Web development). Also working at Laboratório de Matemática Computacional (LaMaC) with research in Digital Image Processing applied to medical images and Artificial Intelligence;
@@ -12,7 +46,6 @@
 >
 > :books::video_game: My hobbies are studying Computer Networking, Game Development and Electronics;
 
-<h3> } </h3>
 
 ##
 

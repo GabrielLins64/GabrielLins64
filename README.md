@@ -51,7 +51,8 @@ def languages():
 
 ```python
 def technologies():
-"""Libraries, Frameworks, DBMS, Operating Systems, Infra and other tools I use for development."""
+"""Libraries, Frameworks, DBMS, Operating Systems, 
+   Infra and other tools I use for development."""
 ```
 
 <div align="center">
@@ -134,7 +135,6 @@ def statistics():
   > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLins64&theme=chartreuse-dark" width="35%"/>
 
 </div>
-
 
 ##
 

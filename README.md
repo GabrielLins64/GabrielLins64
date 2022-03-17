@@ -78,7 +78,7 @@ def technologies():
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230061ab.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><br>
 
-  <h2>Game Development</h2>
+  <!-- <h2>Game Development</h2>
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
   <img alt="Godot" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/><br>
   <img alt="Pygame" src="https://img.shields.io/badge/pygame-%23c2fc20.svg?style=for-the-badge&logo=pygame"/>
@@ -90,7 +90,7 @@ def technologies():
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/><br>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <br>
+  <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <br> -->
 
   <h2>Infra</h2>
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23ffffff.svg?&style=for-the-badge&logo=amazon&logoColor=orange" />
@@ -103,7 +103,7 @@ def technologies():
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-410070?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
 
-  <h2>IDEs/Editors</h2>
+  <!-- <h2>IDEs/Editors</h2>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%232e2e2e.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%2330a2ff"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /><br>
   <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
@@ -115,7 +115,7 @@ def technologies():
   <img alt="Jira" src="https://img.shields.io/badge/jira%20-%23ffffff.svg?&style=for-the-badge&logo=jira&logoColor=blue" /> <br>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <br>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <br> -->
 
 </div>
 

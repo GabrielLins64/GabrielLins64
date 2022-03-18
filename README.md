@@ -130,9 +130,9 @@ def statistics():
 
   > <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
   > 
-  > <img src="https://github-readme-stats.vercel.app/api?username=GabrielLins64&theme=chartreuse-dark&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
+  > <img src="https://github-readme-stats.vercel.app/api?username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
   > 
-  > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLins64&theme=chartreuse-dark" width="35%"/>
+  > <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 
 </div>
 

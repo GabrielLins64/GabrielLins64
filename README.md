@@ -8,7 +8,7 @@
 def about_me():
 ```
 
-> 🐍 Python Developer (Backend | Web)
+> 🐍 Python Developer (Back-end | Web)
 
 > 🎓 CS student (last semester) at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 

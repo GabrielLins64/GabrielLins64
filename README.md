@@ -64,14 +64,16 @@ def technologies():
   <img alt="Vue.js" src="https://img.shields.io/badge/vue%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/><br>
 
-  <img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
-  <img alt="React-Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br>
+  <!-- <img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
+  <img alt="React-Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br> -->
 
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><br>
 
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/><br>
+
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-ffffff?style=for-the-badge&logo=qt&logoColor=07cf00"/><br>
 
   <h2>DBMS / DB libs</h2>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%23ffffff.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
@@ -99,13 +101,13 @@ def technologies():
   <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FFFFFF.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-410070?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /><br>
+  <img alt="Arch" src="https://img.shields.io/badge/Arch-ffffff?style=for-the-badge&logo=archlinux&logoColor=2197ff" />
 
   <h2>Scientific</h2>
   <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/><br>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/><br>
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <br>
 
   <!-- <h2>IDEs/Editors</h2>

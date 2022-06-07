@@ -110,6 +110,10 @@ def technologies():
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <br>
 
+  <h2>Testing</h2>
+
+  <img alt="LaTeX" src="https://img.shields.io/badge/Pytest-ffffff?style=for-the-badge&logo=pytest"/>
+
   <!-- <h2>IDEs/Editors</h2>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%232e2e2e.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%2330a2ff"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /><br>

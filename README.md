@@ -157,8 +157,7 @@ def contact_me():
 """Talk to me on social media."""
 ```
 
-<div style='width: fit-content; margin: 0 auto'>
-
+<div align="center">
   <a href='mailto:gabrielinsmelo@gmail.com'>
     <img
       src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white"

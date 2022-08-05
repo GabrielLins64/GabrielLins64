@@ -157,6 +157,12 @@ def contact_me():
 """Talk to me on social media."""
 ```
 
+<style>
+  img {
+    border-radius: 12px
+  }
+</style>
+
 <div style='display: flex; justify-content: space-around'>
 
   <a href='mailto:gabrielinsmelo@gmail.com'>
@@ -178,8 +184,8 @@ def contact_me():
   <a href='https://www.instagram.com/gabrielins.py/'>
     <img
       src="https://img.shields.io/badge/-Instagram-f56200?style=flat-square&logo=instagram&logoColor=orange&labelColor=purple"
-      onMouseOver="this.style.boxShadow='0 0 1.5em #0f0'"
-      onMouseOut="this.style.boxShadow='none'"
+      onMouseOver="this.style.border='2px outset #0f0'"
+      onMouseOut="this.style.border='none'"
     >
   </a>
 

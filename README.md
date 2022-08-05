@@ -157,51 +157,40 @@ def contact_me():
 """Talk to me on social media."""
 ```
 
-<style>
-  img {
-    border-radius: 12px
-  }
-</style>
-
-<div style='display: flex; justify-content: space-around'>
+<div style='width: fit-content; margin: 0 auto'>
 
   <a href='mailto:gabrielinsmelo@gmail.com'>
     <img
       src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white"
-      onMouseOver="this.style.boxShadow='0 0 1.5em #0f0'"
-      onMouseOut="this.style.boxShadow='none'"
+      style="border-radius: 12px; margin: 0 15px;"
     >
   </a>
 
   <a href='https://www.linkedin.com/in/gabrielfurtadolinsmelo/)'>
     <img
       src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-      onMouseOver="this.style.boxShadow='0 0 1.5em #0f0'"
-      onMouseOut="this.style.boxShadow='none'"
+      style="border-radius: 12px; margin: 0 15px;"
     >
   </a>
 
   <a href='https://www.instagram.com/gabrielins.py/'>
     <img
       src="https://img.shields.io/badge/-Instagram-f56200?style=flat-square&logo=instagram&logoColor=orange&labelColor=purple"
-      onMouseOver="this.style.border='2px outset #0f0'"
-      onMouseOut="this.style.border='none'"
+      style="border-radius: 12px; margin: 0 15px;"
     >
   </a>
 
   <a href='https://discordapp.com/users/533823605830713354/'>
     <img
       src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"
-      onMouseOver="this.style.boxShadow='0 0 1.5em #0f0'"
-      onMouseOut="this.style.boxShadow='none'"
+      style="border-radius: 12px; margin: 0 15px;"
     >
   </a>
 
   <a href='https://github.com/GabrielLins64/'>
     <img
       src="https://img.shields.io/github/followers/GabrielLins64?label=follow&style=social"
-      onMouseOver="this.style.boxShadow='0 0 1.5em #0f0'"
-      onMouseOut="this.style.boxShadow='none'"
+      style="border-radius: 12px; margin: 0 15px;"
     >
   </a>
 

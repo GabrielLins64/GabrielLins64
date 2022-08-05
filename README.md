@@ -8,13 +8,15 @@
 def about_me():
 ```
 
-> 🐍 Python Developer (Backend)
+> 🐍 Python Developer (Back-end)
 
-> 🎓 CS student (last semester) at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
+> 🎓 B.Sc. in Computer Science at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
+
+> 🧑‍💻 Working as React.js Developer at <a href="https://expertise.app/">Expertise Solutions</a>
 
 > 🧑‍💻 Working as PHP/Python Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 
-> 🧑‍🔬 Intern at the [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). Research in Digital Image Processing applied to medical images
+> 🧑‍🔬 Researcher at the [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). Digital Image Processing applied to medical images
 
 > 🎮 Game Development as hobby
 
@@ -45,7 +47,7 @@ def programming_languages():
 
 ```python
 def technologies():
-"""Libraries, Frameworks, DBMS, Operating Systems, 
+"""Libraries, Frameworks, DBMS, Operating Systems,
    Infra and other tools that I use for development."""
 ```
 
@@ -62,7 +64,7 @@ def technologies():
 
   <h2>Front-end</h2>
   <img alt="Vue.js" src="https://img.shields.io/badge/vue%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/><br>
+  <img alt="React.js" src="https://img.shields.io/badge/React%20-%23ffffff.svg?&style=for-the-badge&logo=react"/><br>
 
   <!-- <img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
   <img alt="React-Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br> -->
@@ -73,7 +75,8 @@ def technologies():
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/><br>
 
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-ffffff?style=for-the-badge&logo=qt&logoColor=07cf00"/><br>
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-ffffff?style=for-the-badge&logo=qt&logoColor=07cf00"/>
+  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/><br>
 
   <h2>DBMS / DB libs</h2>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%23ffffff.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
@@ -139,11 +142,11 @@ def statistics():
 
 <div align="center">
 
-  > <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
-  > 
-  > <img src="https://github-readme-stats.vercel.app/api?username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
-  > 
-  > <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+> <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
+>
+> <img src="https://github-readme-stats.vercel.app/api?username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
+>
+> <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 
 </div>
 
@@ -154,16 +157,25 @@ def contact_me():
 """Talk to me on social media."""
 ```
 
-> [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielinsmelo@gmail.com)](mailto:gabrielinsmelo@gmail.com)
+<div align="center">
+  <a href="mailto:gabrielinsmelo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
 
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielfurtadolinsmelo/)](https://www.linkedin.com/in/gabrielfurtadolinsmelo//)
+  <a href="https://www.linkedin.com/in/gabrielfurtadolinsmelo/)">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
 
-> [![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/GabrielLins64)](https://t.me/GabrielLins64)
+  <a href="https://www.instagram.com/gabrielins.py/">
+    <img src="https://img.shields.io/badge/-Instagram-f56200?style=flat-square&logo=instagram&logoColor=orange&labelColor=purple">
+  </a>
 
-> [![Instagram](https://img.shields.io/badge/-Instagram-f56200?style=flat-square&logo=instagram&logoColor=orange&labelColor=purple)](https://www.instagram.com/gabrielins.cpp/)
+  <a href="https://discordapp.com/users/533823605830713354/">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white">
+  </a>
 
-> [![Facebook](https://img.shields.io/badge/-Facebook-ffffff?style=flat-square&logo=facebook&logoColor=blue)](https://www.facebook.com/Gen.Gabriel.Lins)
+  <a href="https://github.com/GabrielLins64/">
+    <img src="https://img.shields.io/github/followers/GabrielLins64?label=follow&style=social">
+  </a>
 
-> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/533823605830713354/)
-
-> [![GitHub](https://img.shields.io/github/followers/GabrielLins64?label=follow&style=social)](https://github.com/GabrielLins64/)
+</div>

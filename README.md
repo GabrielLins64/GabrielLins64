@@ -47,7 +47,7 @@ def programming_languages():
 
 ```python
 def technologies():
-"""Libraries, Frameworks, DBMS, Operating Systems, 
+"""Libraries, Frameworks, DBMS, Operating Systems,
    Infra and other tools that I use for development."""
 ```
 
@@ -142,11 +142,11 @@ def statistics():
 
 <div align="center">
 
-  > <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
-  > 
-  > <img src="https://github-readme-stats.vercel.app/api?username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
-  > 
-  > <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+> <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
+>
+> <img src="https://github-readme-stats.vercel.app/api?username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
+>
+> <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 
 </div>
 
@@ -158,39 +158,24 @@ def contact_me():
 ```
 
 <div align="center">
-  <a href='mailto:gabrielinsmelo@gmail.com'>
-    <img
-      src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white"
-      style="border-radius: 12px; margin: 0 15px;"
-    >
+  <a href="mailto:gabrielinsmelo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 
-  <a href='https://www.linkedin.com/in/gabrielfurtadolinsmelo/)'>
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
-      style="border-radius: 12px; margin: 0 15px;"
-    >
+  <a href="https://www.linkedin.com/in/gabrielfurtadolinsmelo/)">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 
-  <a href='https://www.instagram.com/gabrielins.py/'>
-    <img
-      src="https://img.shields.io/badge/-Instagram-f56200?style=flat-square&logo=instagram&logoColor=orange&labelColor=purple"
-      style="border-radius: 12px; margin: 0 15px;"
-    >
+  <a href="https://www.instagram.com/gabrielins.py/">
+    <img src="https://img.shields.io/badge/-Instagram-f56200?style=flat-square&logo=instagram&logoColor=orange&labelColor=purple">
   </a>
 
-  <a href='https://discordapp.com/users/533823605830713354/'>
-    <img
-      src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"
-      style="border-radius: 12px; margin: 0 15px;"
-    >
+  <a href="https://discordapp.com/users/533823605830713354/">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white">
   </a>
 
-  <a href='https://github.com/GabrielLins64/'>
-    <img
-      src="https://img.shields.io/github/followers/GabrielLins64?label=follow&style=social"
-      style="border-radius: 12px; margin: 0 15px;"
-    >
+  <a href="https://github.com/GabrielLins64/">
+    <img src="https://img.shields.io/github/followers/GabrielLins64?label=follow&style=social">
   </a>
 
 </div>

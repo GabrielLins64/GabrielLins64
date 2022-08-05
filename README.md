@@ -16,7 +16,7 @@ def about_me():
 
 > 🧑‍💻 Working as PHP/Python Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 
-> 🧑‍🔬 Researcher at the [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). Digital Image Processing applied to medical images
+> 🧑‍🔬 Researcher at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). Digital Image Processing applied to medical images
 
 > 🎮 Game Development as hobby
 

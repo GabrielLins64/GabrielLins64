@@ -68,7 +68,7 @@ def technologies():
   <details>
   <summary> Click here to toggle... </summary><br>
 
-  <div style="width: 48%; display: inline-block;">
+  <div float="left">
   <h2>Back-end</h2>
 
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23DDDDDD.svg?&style=for-the-badge&logo=flask&logoColor=black"/>

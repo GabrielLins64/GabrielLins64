@@ -118,6 +118,8 @@ def technologies():
       <img alt="Docker" src="https://img.shields.io/badge/docker%20-%23000000.svg?&style=for-the-badge&logo=docker&logoColor=blue" />
       <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFFFFF.svg?&style=for-the-badge&logo=firebase" />
     </td>
+  </tr>
+  <tr align="center">
     <td>
       <h2>Operating Systems / Kernel</h2>
       <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FFFFFF.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
@@ -126,8 +128,6 @@ def technologies():
       <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /><br>
       <img alt="Arch" src="https://img.shields.io/badge/Arch-ffffff?style=for-the-badge&logo=archlinux&logoColor=2197ff" />
     </td>
-  </tr>
-  <tr align="center">
     <td>
       <h2>Scientific</h2>
       <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -135,6 +135,8 @@ def technologies():
       <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
       <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <br>
     </td>
+  </tr>
+  <tr align="center">
     <td>
       <h2>Testing</h2>
       <img alt="LaTeX" src="https://img.shields.io/badge/Pytest-ffffff?style=for-the-badge&logo=pytest"/>

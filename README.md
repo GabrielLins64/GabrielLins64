@@ -83,7 +83,7 @@ def technologies():
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br>
   </div>
 
-  <div width="400" display="inline">
+  <div size="400">
   <h2>Front-end</h2>
 
   <img alt="React.js" src="https://img.shields.io/badge/React%20-%23ffffff.svg?&style=for-the-badge&logo=react"/>

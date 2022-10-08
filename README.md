@@ -68,6 +68,7 @@ def technologies():
   <details>
   <summary> Click here to toggle... </summary><br>
 
+  <div style="width: 48%; display: inline-block;">
   <h2>Back-end</h2>
 
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23DDDDDD.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
@@ -80,7 +81,9 @@ def technologies():
 
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br>
+  </div>
 
+  <div style="width: 48%; display: inline-block;">
   <h2>Front-end</h2>
 
   <img alt="React.js" src="https://img.shields.io/badge/React%20-%23ffffff.svg?&style=for-the-badge&logo=react"/>
@@ -94,6 +97,7 @@ def technologies():
 
   <img alt="Qt" src="https://img.shields.io/badge/Qt-ffffff?style=for-the-badge&logo=qt&logoColor=07cf00"/>
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/><br>
+  </div>
 
   <h2>DBMS / DB libs</h2>
 

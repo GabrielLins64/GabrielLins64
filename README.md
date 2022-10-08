@@ -184,7 +184,7 @@ def way_of_working():
   - [X] DAO
   - [X] Microsservices
   - [X] Automated Tests
-  - [X] EXtreme Go Horse (XGH)
+  - [ ] EXtreme Go Horse (XGH)
 
   </div>
   </details>

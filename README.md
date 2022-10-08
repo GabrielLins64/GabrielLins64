@@ -10,7 +10,7 @@ def about_me():
 
 <div align="center">
   <details>
-  <summary> Click here to toggle\.\.\. </summary><br>
+  <summary> Click here to toggle... </summary><br>
 
   <div align="start">
 
@@ -43,7 +43,7 @@ def programming_languages():
 
 <div align="center">
   <details>
-  <summary> Click here to toggle\.\.\. </summary><br>
+  <summary> Click here to toggle... </summary><br>
 
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%238892BF.svg?&style=for-the-badge&logo=php&logoColor=white%22"/><br>
@@ -68,7 +68,7 @@ def technologies():
 
 <div align="center">
   <details>
-  <summary> Click here to toggle\.\.\. </summary><br>
+  <summary> Click here to toggle... </summary><br>
 
   <h2>Back-end</h2>
 
@@ -169,7 +169,7 @@ def way_of_working():
 ```
 <div align="center">
   <details>
-  <summary> Click here to toggle\.\.\. </summary><br>
+  <summary> Click here to toggle... </summary><br>
 
 
   <div align="start">
@@ -199,7 +199,7 @@ def statistics():
 
 <div align="center">
   <details>
-  <summary> Click here to toggle\.\.\. </summary><br>
+  <summary> Click here to toggle... </summary><br>
 
   <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
 

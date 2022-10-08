@@ -32,7 +32,7 @@ def about_me():
   </div>
 
   </details>
-</div>
+</div><br>
 
 
 ```python
@@ -55,7 +55,7 @@ def programming_languages():
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=green"/><br>
 
   </details>
-</div>
+</div><br>
 
 
 ```python
@@ -157,7 +157,7 @@ def technologies():
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <br> -->
 
   </details>
-</div>
+</div><br>
 
 
 ```python
@@ -185,7 +185,7 @@ def way_of_working():
 
   </div>
   </details>
-</div>
+</div><br>
 
 
 ```python
@@ -206,7 +206,7 @@ def statistics():
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLins64&theme=merko" width="60%"/>
 
   </details>
-</div>
+</div><br>
 
 
 ```python
@@ -235,4 +235,4 @@ def contact_me():
     <img src="https://img.shields.io/github/followers/GabrielLins64?label=follow&style=social">
   </a>
 
-</div>
+</div><br>

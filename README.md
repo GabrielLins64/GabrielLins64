@@ -34,7 +34,6 @@ def about_me():
   </details>
 </div>
 
-##
 
 ```python
 def programming_languages():
@@ -58,7 +57,6 @@ def programming_languages():
   </details>
 </div>
 
-##
 
 ```python
 def technologies():
@@ -161,7 +159,6 @@ def technologies():
   </details>
 </div>
 
-##
 
 ```python
 def way_of_working():
@@ -190,7 +187,6 @@ def way_of_working():
   </details>
 </div>
 
-##
 
 ```python
 def statistics():
@@ -212,7 +208,6 @@ def statistics():
   </details>
 </div>
 
-##
 
 ```python
 def contact_me():

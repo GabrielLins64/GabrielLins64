@@ -70,7 +70,7 @@ def technologies():
 
   <table>
   <tr align="center">
-    <td>
+    <td width="400">
       <h2>Back-end</h2>
       <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23DDDDDD.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -81,7 +81,7 @@ def technologies():
       <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br>
     </td>
-    <td>
+    <td width="400">
       <h2>Front-end</h2>
       <img alt="React.js" src="https://img.shields.io/badge/React%20-%23ffffff.svg?&style=for-the-badge&logo=react"/>
       <img alt="Vue.js" src="https://img.shields.io/badge/vue%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/><br>

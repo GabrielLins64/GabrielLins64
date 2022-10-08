@@ -8,12 +8,11 @@
 def about_me():
 ```
 
+<div align="center">
   <details>
-  <summary>
-    <div style="margin: auto; background-color: black; color: lightgreen; padding: 15px; border-radius: 12px; width: fit-content">
-      Click here to toggle...
-    </div>
-  </summary><br><br>
+  <summary> Click here to toggle... </summary><br><br>
+
+  <div align="start">
 
 > 🧑‍💻 Web Full Stack Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 
@@ -30,7 +29,10 @@ def about_me():
 > - 🐘 PHP;
 > - ⚛️ React;
 
+  </div>
+
   </details>
+</div>
 
 ##
 
@@ -41,11 +43,7 @@ def programming_languages():
 
 <div align="center">
   <details>
-  <summary>
-    <div style="background-color: black; color: lightgreen; padding: 15px; border-radius: 12px; width: fit-content">
-      Click here to toggle...
-    </div>
-  </summary><br><br>
+  <summary> Click here to toggle... </summary><br><br>
 
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%238892BF.svg?&style=for-the-badge&logo=php&logoColor=white%22"/><br>
@@ -70,11 +68,7 @@ def technologies():
 
 <div align="center">
   <details>
-  <summary>
-    <div style="background-color: black; color: lightgreen; padding: 15px; border-radius: 12px; width: fit-content">
-      Click here to toggle...
-    </div>
-  </summary><br><br>
+  <summary> Click here to toggle... </summary><br><br>
 
   <h2>Back-end</h2>
 
@@ -175,26 +169,22 @@ def way_of_working():
 ```
 <div align="center">
   <details>
-  <summary>
-    <div style="background-color: black; color: lightgreen; padding: 15px; border-radius: 12px; width: fit-content">
-      Click here to toggle...
-    </div>
-  </summary><br><br>
+  <summary> Click here to toggle... </summary><br><br>
 
 
   <div align="start">
 
-  <input type="checkbox" checked readonly> Clean code</input>
-  <input type="checkbox" checked readonly> Agile</input>
-  <input type="checkbox" checked readonly> SCRUM</input>
-  <input type="checkbox" checked readonly> Kanban</input>
-  <input type="checkbox" checked readonly> MVC</input>
-  <input type="checkbox" checked readonly> SOLID</input>
-  <input type="checkbox" checked readonly> REST</input>
-  <input type="checkbox" checked readonly> DAO</input>
-  <input type="checkbox" checked readonly> Microsservices</input>
-  <input type="checkbox" checked readonly> Automated Tests</input>
-  <input type="checkbox" readonly> EXtreme Go Horse (XGH)</input>
+  - [X] Clean code
+  - [X] Agile
+  - [X] SCRUM
+  - [X] Kanban
+  - [X] MVC
+  - [X] SOLID
+  - [X] REST
+  - [X] DAO
+  - [X] Microsservices
+  - [X] Automated Tests
+  - [X] EXtreme Go Horse (XGH)
 
   </div>
   </details>
@@ -209,11 +199,7 @@ def statistics():
 
 <div align="center">
   <details>
-  <summary>
-    <div style="background-color: black; color: lightgreen; padding: 15px; border-radius: 12px; width: fit-content">
-      Click here to toggle...
-    </div>
-  </summary><br><br>
+  <summary> Click here to toggle... </summary><br><br>
 
   <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
 

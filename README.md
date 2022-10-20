@@ -8,12 +8,6 @@
 def about_me():
 ```
 
-<div align="center">
-  <details>
-  <summary> Click here to toggle... </summary><br>
-
-  <div align="start">
-
 > 🧑‍💻 Web Full Stack Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 
 > 🎓 B.Sc. in Computer Science from <a href="http://www.uece.br/">Ceará State University (UECE)</a>
@@ -29,11 +23,7 @@ def about_me():
 > - 🐘 PHP;
 > - ⚛️ React;
 
-  </div>
-
-  </details>
-</div><br>
-
+<br>
 
 ```python
 def programming_languages():
@@ -41,8 +31,6 @@ def programming_languages():
 ```
 
 <div align="center">
-  <details>
-  <summary> Click here to toggle... </summary><br>
 
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%238892BF.svg?&style=for-the-badge&logo=php&logoColor=white%22"/><br>
@@ -54,7 +42,7 @@ def programming_languages():
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=green"/><br>
 
-  </details>
+
 </div><br>
 
 
@@ -163,12 +151,6 @@ def technologies():
 def way_of_working():
 """Design Patterns, Principles, Methodologies, Project Architectures and other techniques I use for working"""
 ```
-<div align="center">
-  <details>
-  <summary> Click here to toggle... </summary><br>
-
-
-  <div align="start">
 
   - [X] Clean code
   - [X] Agile
@@ -182,10 +164,7 @@ def way_of_working():
   - [X] Automated Tests
   - [ ] EXtreme Go Horse (XGH)
 
-  </div>
-  </details>
-</div><br>
-
+<br>
 
 ```python
 def statistics():

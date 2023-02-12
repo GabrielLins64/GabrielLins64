@@ -16,7 +16,7 @@ def about_me():
 
 > 🧑‍🔬 Internship at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). Worked with Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP).
 
-> 📚 Studying Math, Physics, Electronics and Data Science by hobby
+> 📚 Studying Math, Physics, Electronics and Data Science as hobby
 
 > 🛠️ Current main development stack:
 > - 🐍 Python (Django and Flask);

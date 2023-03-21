@@ -8,19 +8,25 @@
 def about_me():
 ```
 
-> 🧑‍💻 Tech Lead (Web Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+> 👨‍💻 Working as a Software Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
+
+> 💼 Worked as a Technical Leader (Web Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+
+> 💼 Worked as a Junior Software Developer at <a href="https://simp.digital/">Simp Digital</a>
+
+> 💼 Worked as an Intern at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). 
+
+> 🧑‍🔬 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
 
 > 🎓 B.Sc. in Computer Science from <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
-> 🧪 In progress MS. in Algorithms, Optimization and Artificial Intelligence at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
+> 📚 In progress MS. in Algorithms, Optimization and Artificial Intelligence at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
-> 🧑‍🔬 Internship at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). Worked with Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP).
-
-> 📚 Studying Math, Physics, Electronics and Data Science as hobby
+> ♟️ Hobbies: Math, Physics and Game Development
 
 > 🛠️ Current main development stack:
 > - 🐍 Python (Django and Flask);
-> - ⚛️ React;
+> - ⚛️ React.js;
 > - 🐘 PHP;
 
 <br>

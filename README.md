@@ -8,15 +8,17 @@
 def about_me():
 ```
 
-> 👨‍💻 Working as a Software Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
+> 🧑‍🔬 Working as researcher in Deep Learning, Data Analysis and Digital Image Processing at the [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE)</a>
 
-> 💼 Worked as a Technical Leader (Web Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+> 💼 Worked as Software Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
 
-> 💼 Worked as a Junior Software Developer at <a href="https://simp.digital/">Simp Digital</a>
+> 💼 Worked as Technical Leader (Web Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 
-> 💼 Worked as an Intern at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). 
+> 💼 Worked as Junior Software Developer at <a href="https://simp.digital/">Simp Digital</a>
 
-> 🧑‍🔬 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
+> 💼 Worked as Intern at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). 
+
+> 🧑‍💻 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
 
 > 🎓 B.Sc. in Computer Science from <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
@@ -26,8 +28,10 @@ def about_me():
 
 > 🛠️ Current main development stack:
 > - 🐍 Python (Django and Flask);
-> - ⚛️ React.js;
+> - 🟩 Node.js;
+> - 🟦 TypeScript;
 > - 🐘 PHP;
+> - ⚛️ React.js;
 
 <br>
 

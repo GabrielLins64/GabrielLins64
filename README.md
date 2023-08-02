@@ -162,7 +162,7 @@ def more_info():
 ```
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielfurtadolinsmelo/)">
+  <a href="https://www.linkedin.com/in/gabrielfurtadolinsmelo/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 

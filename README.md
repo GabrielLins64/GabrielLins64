@@ -8,7 +8,7 @@
 def about_me():
 ```
 
-> 🧑‍🔬 Working as researcher in Deep Learning, Data Analysis and Digital Image Processing at the [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE)</a>
+> 🧑‍🔬 Working as researcher in Deep Learning, Data Analysis and Digital Image Processing at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
 
 > 💼 Worked as Software Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
 

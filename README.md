@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="imgs/python.png" width="40" style="display: inline-block; vertical-align: middle;">
+  <img src="imgs/cpp.png" width="40" style="display: inline-block; vertical-align: middle;">
   Gabriel's GitHub
-  <img src="imgs/php.png" width="40" style="display: inline-block; vertical-align: middle;">
+  <img src="imgs/python_dark.png" width="40" style="display: inline-block; vertical-align: middle;">
 </h1>
 
 ```python
 def about_me():
 ```
 
-> 🧑‍🔬 Working as researcher in Deep Learning, Data Analysis and Digital Image Processing at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
+> 🧑‍🔬 Working as researcher in Digital Image Processing, Computer Graphics and Deep Learning at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
 
 > 💼 Worked as Software Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
 
@@ -24,14 +24,13 @@ def about_me():
 
 > 📚 In progress MS. in Algorithms, Optimization and Artificial Intelligence at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
-> ♟️ Hobbies: Math, Physics and Game Development
+> ♟️ Hobbies: Math, Physics, Game Development and IoT
 
 > 🛠️ Current main development stack:
-> - 🐍 Python (Django and Flask);
-> - 🟩 Node.js;
-> - 🟦 TypeScript;
+> - 🐍 Python (Django | Flask);
+> - ⚡ C & C++ (OpenGL | SDL2 | Qt);
+> - ⚛️ Javascript & TypeScript (React.js | Node.js | Express.js);
 > - 🐘 PHP;
-> - ⚛️ React.js;
 
 <br>
 
@@ -50,6 +49,8 @@ def programming_languages():
 
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="Pawn" src="https://img.shields.io/badge/pawn%20-%23b59859.svg?&style=for-the-badge&logo=small&logoColor=green"/><br>
+
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=green"/><br>
 
 
@@ -100,12 +101,19 @@ def technologies():
       <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><br>
     </td>
     <td valign="top">
-      <h2>Deploy and Cloud</h2>
-      <img alt="HEROKU" src="https://img.shields.io/badge/heroku%20-%2379589F.svg?&style=for-the-badge&logo=heroku" />
-      <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23ffffff.svg?&style=for-the-badge&logo=amazon&logoColor=orange" />
-      <img alt="GCP" src="https://img.shields.io/badge/GCP%20-%23FFFFFF.svg?&style=for-the-badge&logo=googlecloud&logoColor=blue" /><br>
+      <h2>DevOps</h2>
+      <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23ffffff.svg?&style=for-the-badge&logo=amazon-aws&logoColor=orange" />
+      <img alt="S3" src="https://img.shields.io/badge/S3%20-%23569A31.svg?&style=for-the-badge&logo=amazon-s3&logoColor=white" />
+      <img alt="EC2" src="https://img.shields.io/badge/EC2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-ec2&logoColor=white" /><br>
       <img alt="Docker" src="https://img.shields.io/badge/docker%20-%23000000.svg?&style=for-the-badge&logo=docker&logoColor=blue" />
+      <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
       <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFFFFF.svg?&style=for-the-badge&logo=firebase" />
+      <img alt="supabase" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" /><br>
+      <img alt="terraform" src="https://img.shields.io/badge/terraform%20-%23FFFFFF.svg?&style=for-the-badge&logo=terraform" />
+      <img alt="ansible" src="https://img.shields.io/badge/ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible" />
+      <img alt="github-actions" src="https://img.shields.io/badge/github_actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" /><br>
+      <img alt="prometheus" src="https://img.shields.io/badge/prometheus%20-%23FFFFFF.svg?&style=for-the-badge&logo=prometheus" />
+      <img alt="grafana" src="https://img.shields.io/badge/grafana%20-%23FFFFFF.svg?&style=for-the-badge&logo=grafana" /><br>
     </td>
   </tr>
   <tr align="center">

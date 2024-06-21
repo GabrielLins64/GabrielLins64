@@ -10,24 +10,26 @@ def about_me():
 
 > 🧑‍🔬 Working as researcher in Digital Image Processing, Computer Graphics and Deep Learning at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
 
-> 💼 Worked as Software Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
+> 👨‍💻 Working as Full Cycle Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
 
-> 💼 Worked as Technical Leader (Web Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+> 💼 Worked as Technical Leader (Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+
+> 💼 Worked as Software Developer at <a href="https://expertise.dev/">Expertise Solutions</a>
 
 > 💼 Worked as Junior Software Developer at <a href="https://simp.digital/">Simp Digital</a>
 
 > 💼 Worked as Intern at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). 
 
-> 🧑‍💻 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
+> 🔬 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
 
 > 🎓 B.Sc. in Computer Science from <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
 > 📚 In progress MS. in Algorithms, Optimization and Artificial Intelligence at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
-> ♟️ Hobbies: Math, Physics, Game Development and IoT
+> ♟️ Hobbies: Game Development, IoT, Competitive Programming, Low Level Programming (Embedded Devices, Linux Kernel, Drivers), Physics.
 
 > 🛠️ Current main development stack:
-> - 🐍 Python (Django | Flask);
+> - 🐍 Python (Django | Flask | PySide);
 > - ⚡ C & C++ (OpenGL | SDL2 | Qt);
 > - ⚛️ Javascript & TypeScript (React.js | Node.js | Express.js);
 > - 🐘 PHP;

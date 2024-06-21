@@ -18,7 +18,7 @@ def about_me():
 
 > 💼 Worked as Junior Software Developer at <a href="https://simp.digital/">Simp Digital</a>
 
-> 💼 Worked as Intern at [Computational Mathematics Laboratory (LaMaC)](https://github.com/LAMAC-UECE). 
+> 💼 Scientific Initiation Scholarship Program at [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/). 
 
 > 🔬 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
 

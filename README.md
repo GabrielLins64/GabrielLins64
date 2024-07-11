@@ -112,7 +112,8 @@ def technologies():
       <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFFFFF.svg?&style=for-the-badge&logo=firebase" />
       <img alt="supabase" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" /><br>
       <img alt="terraform" src="https://img.shields.io/badge/terraform%20-%23FFFFFF.svg?&style=for-the-badge&logo=terraform" />
-      <img alt="ansible" src="https://img.shields.io/badge/ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible" />
+      <img alt="ansible" src="https://img.shields.io/badge/ansible%20-%23EE0000.svg?&style=for-the-badge&logo=ansible" /><br>
+      <img alt="jenkins" src="https://img.shields.io/badge/jenkins%20-%23FFFFFF.svg?&style=for-the-badge&logo=jenkins" />
       <img alt="github-actions" src="https://img.shields.io/badge/github_actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" /><br>
       <img alt="prometheus" src="https://img.shields.io/badge/prometheus%20-%23FFFFFF.svg?&style=for-the-badge&logo=prometheus" />
       <img alt="grafana" src="https://img.shields.io/badge/grafana%20-%23FFFFFF.svg?&style=for-the-badge&logo=grafana" /><br>

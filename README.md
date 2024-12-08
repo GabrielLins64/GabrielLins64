@@ -8,9 +8,11 @@
 def about_me():
 ```
 
-> 🧑‍🔬 Working as researcher in Digital Image Processing, Computer Graphics and Deep Learning at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
-
 > 👨‍💻 Working as Full Cycle Developer at <a href="https://www.policiacivil.ce.gov.br/">DETIC - Polícia Civil do Ceará</a>
+
+> 💚 Working as CTO at <a href="https://sotecsaude.com.br/">SOTEC Saúde - Soluções e Tecnologia em Saúde</a>
+
+> 🧑‍🔬 Worked as developer and undergraduate researcher in Digital Image Processing, Computer Graphics and Deep Learning at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
 
 > 💼 Worked as Technical Leader (Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 

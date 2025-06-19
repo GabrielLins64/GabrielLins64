@@ -12,9 +12,9 @@ def about_me():
 
 > 💚 Working as CTO at <a href="https://sotecsaude.com.br/">SOTEC Saúde - Soluções e Tecnologia em Saúde</a>
 
-> 🧑‍🔬 Worked as developer and undergraduate researcher in Digital Image Processing, Computer Graphics and Deep Learning at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
+> 🧑‍🔬 Worked as developer and undergraduate researcher at the [Computational Mathematics Laboratory (LaMaC)](https://lamac-uece.github.io/)</a>
 
-> 💼 Worked as Technical Leader (Full Stack Developer and IT Manager) at <a href="https://www.etice.ce.gov.br/">ETICE</a>
+> 💼 Worked as Technical Leader, Team Manager and Full Stack Developer at <a href="https://www.etice.ce.gov.br/">ETICE</a>
 
 > 💼 Worked as Software Developer at <a href="https://expertise.dev/">Expertise Solutions</a>
 
@@ -28,13 +28,13 @@ def about_me():
 
 > 📚 In progress MS. in Algorithms, Optimization and Artificial Intelligence at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
-> ♟️ Hobbies: Game Development, IoT, Competitive Programming, Low Level Programming (Embedded Devices, Linux Kernel, Drivers), Physics.
+> ♟️ Hobbies: Game Development, IoT, Competitive Programming, Embedded Devices, Linux Kernel, Drivers.
 
 > 🛠️ Current main development stack:
-> - 🐍 Python (Django | Flask | PySide);
+> - 🐍 Python (Django | Flask | PySide | PyGame);
 > - ⚡ C & C++ (OpenGL | SDL2 | Qt);
-> - ⚛️ Javascript & TypeScript (React.js | Node.js | Express.js);
-> - 🐘 PHP;
+> - ⚛️ Javascript & TypeScript (React | Node | Express);
+> - 🐘 Raw PHP;
 
 <br>
 

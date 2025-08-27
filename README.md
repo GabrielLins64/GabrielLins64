@@ -161,7 +161,7 @@ def statistics():
 
   <img src="https://github-readme-stats-git-master-gabriel-lins-projects-968835c0.vercel.app/api?username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues&show=reviews,prs_merged" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/><br><br>
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/><br><br> -->
 
   <img src="https://github-readme-stats-git-master-gabriel-lins-projects-968835c0.vercel.app/api/top-langs/?username=GabrielLins64&theme=merko&hide=jupyter%20notebook&layout=donut" width="60%"/>
 

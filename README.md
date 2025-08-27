@@ -159,7 +159,7 @@ def statistics():
 
   <img src="https://komarev.com/ghpvc/?username=GabrielLins64&color=brightgreen&style=plastic"/><br><br>
 
-  <img src="https://githube-readme-stats-git-master-gabriel-lins-projects-968835c0.vercel.app/api?_vercel_share=hXeTi25m0iaS3Oua6OtW4q9yBf7PyWxw&username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
+  <img src="https://github-readme-stats-git-master-gabriel-lins-projects-968835c0.vercel.app/api?_vercel_share=hXeTi25m0iaS3Oua6OtW4q9yBf7PyWxw&username=GabrielLins64&theme=merko&show_icons=true&count_private=true&hide=issues" width="60%" alt="GabrielLins64 GitHub Statistics"/><br><br>
 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=GabrielLins64&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="60%"/><br><br>
 

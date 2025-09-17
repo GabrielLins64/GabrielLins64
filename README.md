@@ -24,9 +24,10 @@ def about_me():
 
 > 🔬 Research in Digital Image Processing applied to medical images and Artificial Neural Networks for data classification and recognition (mainly images and NLP). <a href="http://lattes.cnpq.br/0989380563059737">Lattes</a>.
 
+> 🎓 M.Sc. (Master of Science) in Computer Science - Algorithms, Optimization and Artificial Intelligence - from <a href="http://www.uece.br/">Ceará State University (UECE)</a>
+
 > 🎓 B.Sc. in Computer Science from <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
-> 📚 In progress MS. in Algorithms, Optimization and Artificial Intelligence at <a href="http://www.uece.br/">Ceará State University (UECE)</a>
 
 > ♟️ Hobbies: Game Development, IoT, Competitive Programming, Embedded Devices, Linux Kernel, Drivers.
 
